@@ -1,6 +1,6 @@
 # DO_NOT_RUN_THIS_PROGRAM
 
-If you don't know what you are doing
+UNLESS you KNOW WHAT you are DOING
 
 Then
 
